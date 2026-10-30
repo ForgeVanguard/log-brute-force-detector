@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lbfd"
+version = "0.1.0"
+description = "Detect SSH brute force and password spraying in auth logs"
+authors = [{ name = "Steven Drew" }]
+license = { text = "MIT" }
+requires-python = ">=3.8"
+
+[project.scripts]
+lbfd = "lbfd.cli:main"
+
+[tool.setuptools]
+packages = ["lbfd"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

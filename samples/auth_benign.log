@@ -1,0 +1,21 @@
+# SYNTHETIC SAMPLE DATA - created for testing, not from a real system
+Mar  4 08:00:00 lab-target01 sshd[6000]: Accepted publickey for labadmin from 192.0.2.10 port 50000 ssh2
+Mar  4 08:15:00 lab-target01 sshd[6001]: Accepted publickey for labadmin from 192.0.2.11 port 50001 ssh2
+Mar  4 08:30:00 lab-target01 sshd[6002]: Accepted publickey for labadmin from 192.0.2.12 port 50002 ssh2
+Mar  4 08:45:00 lab-target01 sshd[6003]: Accepted publickey for labadmin from 192.0.2.10 port 50003 ssh2
+Mar  4 09:00:00 lab-target01 sshd[6004]: Accepted publickey for labadmin from 192.0.2.11 port 50004 ssh2
+Mar  4 09:15:00 lab-target01 sshd[6005]: Accepted publickey for labadmin from 192.0.2.12 port 50005 ssh2
+Mar  4 09:30:00 lab-target01 sshd[6006]: Accepted publickey for labadmin from 192.0.2.10 port 50006 ssh2
+Mar  4 09:45:00 lab-target01 sshd[6007]: Accepted publickey for labadmin from 192.0.2.11 port 50007 ssh2
+Mar  4 10:00:00 lab-target01 sshd[6008]: Accepted publickey for labadmin from 192.0.2.12 port 50008 ssh2
+Mar  4 10:15:00 lab-target01 sshd[6009]: Accepted publickey for labadmin from 192.0.2.10 port 50009 ssh2
+Mar  4 10:30:00 lab-target01 sshd[6010]: Accepted publickey for labadmin from 192.0.2.11 port 50010 ssh2
+Mar  4 10:45:00 lab-target01 sshd[6011]: Accepted publickey for labadmin from 192.0.2.12 port 50011 ssh2
+Mar  4 11:00:00 lab-target01 sshd[6012]: Accepted publickey for labadmin from 192.0.2.10 port 50012 ssh2
+Mar  4 11:15:00 lab-target01 sshd[6013]: Accepted publickey for labadmin from 192.0.2.11 port 50013 ssh2
+Mar  4 11:30:00 lab-target01 sshd[6014]: Accepted publickey for labadmin from 192.0.2.12 port 50014 ssh2
+Mar  4 11:45:00 lab-target01 sshd[6015]: Accepted publickey for labadmin from 192.0.2.10 port 50015 ssh2
+Mar  4 12:00:00 lab-target01 sshd[6016]: Accepted publickey for labadmin from 192.0.2.11 port 50016 ssh2
+Mar  4 12:15:00 lab-target01 sshd[6017]: Accepted publickey for labadmin from 192.0.2.12 port 50017 ssh2
+Mar  4 12:30:00 lab-target01 sshd[6018]: Accepted publickey for labadmin from 192.0.2.10 port 50018 ssh2
+Mar  4 12:45:00 lab-target01 sshd[6019]: Accepted publickey for labadmin from 192.0.2.11 port 50019 ssh2
